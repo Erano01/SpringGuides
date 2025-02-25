@@ -8,7 +8,21 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/batch-processing" />
+            <option value="$PROJECT_DIR$/caching" />
+            <option value="$PROJECT_DIR$/cloud-platform" />
+            <option value="$PROJECT_DIR$/data-access" />
+            <option value="$PROJECT_DIR$/documentation" />
+            <option value="$PROJECT_DIR$/io" />
+            <option value="$PROJECT_DIR$/messaging" />
+            <option value="$PROJECT_DIR$/microservices" />
+            <option value="$PROJECT_DIR$/misc" />
+            <option value="$PROJECT_DIR$/ops" />
             <option value="$PROJECT_DIR$/rest-apis" />
+            <option value="$PROJECT_DIR$/security" />
+            <option value="$PROJECT_DIR$/streaming" />
+            <option value="$PROJECT_DIR$/testing" />
+            <option value="$PROJECT_DIR$/web" />
           </set>
         </option>
       </GradleProjectSettings>
