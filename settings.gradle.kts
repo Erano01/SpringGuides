@@ -16,3 +16,5 @@ include("rest-apis:tut-rest:nonrest", "rest-apis:tut-rest:rest",
     "rest-apis:tut-rest:evolution", "rest-apis:tut-rest:links")
 
 //
+include("security:gs-authenticating-ldap")
+findProject(":security:gs-authenticating-ldap")?.name = "gs-authenticating-ldap"

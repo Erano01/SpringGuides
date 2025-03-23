@@ -35,6 +35,7 @@
             <option value="$PROJECT_DIR$/rest-apis/tut-rest/nonrest" />
             <option value="$PROJECT_DIR$/rest-apis/tut-rest/rest" />
             <option value="$PROJECT_DIR$/security" />
+            <option value="$PROJECT_DIR$/security/gs-authenticating-ldap" />
             <option value="$PROJECT_DIR$/streaming" />
             <option value="$PROJECT_DIR$/testing" />
             <option value="$PROJECT_DIR$/web" />
