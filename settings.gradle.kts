@@ -20,3 +20,5 @@ include("security:gs-authenticating-ldap")
 findProject(":security:gs-authenticating-ldap")?.name = "gs-authenticating-ldap"
 include("security:gs-securing-web")
 findProject(":security:gs-securing-web")?.name = "gs-securing-web"
+include("security:gs-rest-service-cors")
+findProject(":security:gs-rest-service-cors")?.name = "gs-rest-service-cors"
